@@ -39,10 +39,17 @@ Java 기반 백엔드 개발을 중심으로
 ---
 
 ## 📊 GitHub Stats
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=meustar&theme=transparent&hide_border=true" />
-</div>
+
+<!-- GitHub Stats: Dark -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+<!-- GitHub Stats: Light -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
+
+<!-- Top Langs: Dark -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+<!-- Top Langs: Light -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
+
 
 <br/>
 
