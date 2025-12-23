@@ -1,7 +1,7 @@
 # 👋 안녕하세요, meustar 입니다.
 
 Java 기반 백엔드 개발을 중심으로  
-**업무 흐름과 데이터 구조를 이해하는 시스템 개발**
+**업무 흐름과 데이터 구조를 이해하는 시스템 개발**  
 **원활한 의사소통에 따른 협업과 사내 공동체**에 관심이 있습니다.
 
 ---
@@ -29,16 +29,11 @@ Java 기반 백엔드 개발을 중심으로
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </div>
 
-### Infra / Tools
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</div>
-
 ### Collaboration / Design
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 
 ---
@@ -70,11 +65,14 @@ Java 기반 백엔드 개발을 중심으로
 
 ---
 
-## ✨ Goal
-- 실무에서 바로 투입 가능한 백엔드 개발자
-- “왜 이렇게 설계했는지 설명할 수 있는 개발자”
-- 도메인 이해를 기반으로 한 안정적인 시스템 구현
+## 🔗 Links
+<div>
+  <a href="https://velog.io/@meustar" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/meustar" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white"/>
+  </a>
+</div>
 
----
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/meustar)
