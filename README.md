@@ -31,7 +31,7 @@ Java 기반 백엔드 개발을 중심으로
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</div>logoColor=white"/>
+</div>
 
 ---
 
