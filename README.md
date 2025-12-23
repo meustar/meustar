@@ -39,8 +39,6 @@ Java 기반 백엔드 개발을 중심으로
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=transparent&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&theme=transparent&hide_border=true" />
