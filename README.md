@@ -1,14 +1,15 @@
 # 👋 안녕하세요, meustar 입니다.
 
 Java 기반 백엔드 개발을 중심으로  
-**업무 흐름과 데이터 구조를 이해하는 시스템 개발**에 관심이 있습니다.
+**업무 흐름과 데이터 구조를 이해하는 시스템 개발**
+**원활한 의사소통에 따른 협업과 사내 공동체**에 관심이 있습니다.
 
 ---
 
 ## 🧑‍💻 About Me
 - Java / Spring 기반 백엔드 개발
 - 관계형 DB 중심의 데이터 모델링에 관심
-- 공공·교육·의료 도메인 시스템 구조 학습 중
+- 공공·보건·의료 도메인 시스템 구조 학습 중 (비전공자 / 물리치료학 전공)
 - “작동 원리와 흐름을 설명할 수 있는 코드”를 지향
 
 ---
@@ -24,6 +25,7 @@ Java 기반 백엔드 개발을 중심으로
 ### Database
 <div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </div>
 
@@ -31,6 +33,12 @@ Java 기반 백엔드 개발을 중심으로
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</div>
+
+### Collaboration / Design
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>
 
 ---
