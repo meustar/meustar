@@ -39,9 +39,10 @@ Java 기반 백엔드 개발을 중심으로
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact)
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
@@ -72,6 +73,12 @@ Java 기반 백엔드 개발을 중심으로
   </a>
   <a href="https://codepen.io/meustar" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/meustar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:meustar829@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
