@@ -44,9 +44,6 @@ Java 기반 백엔드 개발을 중심으로
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E6&width=435&lines=Hello,+I'm+meustar;Java+Backend+Developer;Always+Learning+System+Architecture" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meustar&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15" alt="meustar's trophies" />
-</p>
 
 <br/>
 
