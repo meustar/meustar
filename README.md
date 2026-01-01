@@ -41,8 +41,17 @@ Java 기반 백엔드 개발을 중심으로
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=180&section=header&text=meustar's%20GitHub&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Constant%20Learner%20%26%20Developer&descSize=20&descAlign=50&descAlignY=60" 
-       alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E6&width=435&lines=Hello,+I'm+meustar;Java+Backend+Developer;Always+Learning+System+Architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meustar&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15" alt="meustar's trophies" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=github-compact&hide_border=true" alt="meustar's activity graph" />
 </p>
 
 <br/>
