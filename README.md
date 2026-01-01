@@ -51,12 +51,6 @@ Java 기반 백엔드 개발을 중심으로
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=github-compact&hide_border=true" alt="meustar's activity graph" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=github-compact&hide_border=true" 
        alt="meustar's activity graph" />
 </p>
