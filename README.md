@@ -41,9 +41,8 @@ Java 기반 백엔드 개발을 중심으로
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=meustar&theme=default&hide_border=true&card_width=400" 
-       alt="meustar's streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=180&section=header&text=meustar's%20GitHub&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Constant%20Learner%20%26%20Developer&descSize=20&descAlign=50&descAlignY=60" 
+       alt="header" />
 </p>
 
 <br/>
