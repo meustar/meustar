@@ -53,11 +53,6 @@ Java 기반 백엔드 개발을 중심으로
        alt="meustar's activity graph" />
 </p>
 
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=github-compact&hide_border=true" />
-
-
-
 ---
 
 ## 📂 Projects
