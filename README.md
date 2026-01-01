@@ -39,10 +39,10 @@ Java 기반 백엔드 개발을 중심으로
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&theme=radical)
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&theme=radical)
+
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=github-compact&hide_border=true" />
 
