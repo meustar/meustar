@@ -44,11 +44,24 @@ Java 기반 백엔드 개발을 중심으로
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E6&width=435&lines=Hello,+I'm+meustar;Java+Backend+Developer;Always+Learning+System+Architecture" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  
+  <!-- GitHub Stats 카드 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- 많이 쓰는 언어 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<br/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=github-compact&hide_border=true" 
+  <!-- Streak Stats (연속 커밋 기록) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meustar&theme=tokyonight" alt="meustar's streak"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=tokyo-night&hide_border=true" 
        alt="meustar's activity graph" />
 </p>
 
