@@ -54,26 +54,25 @@ Java 기반 백엔드 개발을 중심으로
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight" height="180px" alt="meustar's github stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&langs_count=8&theme=tokyonight" height="180px" alt="meustar's top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight" height="180px" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&langs_count=8&theme=tokyonight" height="180px" alt="Top Langs" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=meustar&theme=tokyonight" alt="meustar's streak"/>
+  <img src="https://streak-stats.demolab.com?user=meustar&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=tokyo-night&hide_border=true" alt="meustar's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 📂 Projects
 
-| 프로젝트 (기간) | 주요 내용 및 담당 역할 | 기술 스택 (Keywords) |
+| 프로젝트 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 주요 내용 및 담당 역할 | 기술 스택 (Keywords) |
 | :--- | :--- | :--- |
 | **HealFoods**<br/>(2025.10~11) | **[AI 맞춤형 건강 식품 이커머스]**<br/>• **역할:** UI/UX 구현, 장바구니/주문 로직(FE/BE), GCP 인프라 구축<br/>• **특징:** 4계층 DDD+RDD 아키텍처 설계, MSA 전환 고려 | `Java 11` `Spring Boot` `JPA/MyBatis` `PostgreSQL` `Redis` `React` `GCP` |
 | **KICKNAYSIS**<br/>(2024.10~12) | **[AI 기반 스포츠 경기 분석 플랫폼]**<br/>• **역할:** Java-Python API 연동, Selenium 크롤링, 마이페이지 구현<br/>• **특징:** OpenCV/YOLO 객체 탐지, Spring Security 인증 | `Java 11` `Python` `Flask` `OpenCV` `YOLO` `Spring Boot` `MySQL` |
