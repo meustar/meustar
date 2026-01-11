@@ -54,18 +54,15 @@ Java 기반 백엔드 개발을 중심으로
 </p>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px" alt="meustar's github stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&langs_count=8&theme=tokyonight" height="180px" alt="meustar's top languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight" height="180px" alt="meustar's github stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&langs_count=8&theme=tokyonight" height="180px" alt="meustar's top languages"/>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meustar&theme=tokyonight" alt="meustar's streak"/>
+  <img src="https://streak-stats.demolab.com?user=meustar&theme=tokyonight" alt="meustar's streak"/>
 </p>
 
 <p align="center">
