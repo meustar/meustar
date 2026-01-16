@@ -20,7 +20,6 @@ Java 기반 백엔드 개발을 중심으로
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=fluentbit&logoColor=white"/>
 </div>
 
@@ -76,8 +75,8 @@ Java 기반 백엔드 개발을 중심으로
 
 | 프로젝트 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 주요 내용 및 담당 역할 | 기술 스택 (Keywords) |
 | :--- | :--- | :--- |
-| **HealFoods**<br/>(2025.10~11) | **[AI 맞춤형 건강 식품 이커머스]**<br/>• **역할:** UI/UX 구현, 장바구니/주문 로직(FE/BE), GCP 인프라 구축<br/>• **특징:** 4계층 DDD+RDD 아키텍처 설계, MSA 전환 고려 | `Java 11` `Spring Boot` `JPA/MyBatis` `PostgreSQL` `Redis` `React` `GCP` |
-| **KICKNAYSIS**<br/>(2024.10~12) | **[AI 기반 스포츠 경기 분석 플랫폼]**<br/>• **역할:** Java-Python API 연동, Selenium 크롤링, 마이페이지 구현<br/>• **특징:** OpenCV/YOLO 객체 탐지, Spring Security 인증 | `Java 17` `Python` `Flask` `OpenCV` `YOLO` `Spring Boot` `MySQL` |
+| **HealFoods**<br/>(2025.10~11) | **[AI 맞춤형 건강 식품 이커머스]**<br/>• **역할:** UI/UX 구현, 장바구니/주문 로직(FE/BE), GCP 인프라 구축<br/>• **특징:** 4계층 DDD+RDD 아키텍처 설계, MSA 전환 고려 | `Java 11` `Spring Boot` `Spring AI` `MyBatis` `PostgreSQL` `Redis` `React` `GCP` |
+| **KICKNAYSIS**<br/>(2024.10~12) | **[AI 기반 스포츠 경기 분석 플랫폼]**<br/>• **역할:** Java-Python API 연동, Selenium 크롤링, 마이페이지 구현<br/>• **특징:** OpenCV/YOLO 객체 탐지, Spring Security 인증 | `Java 11` `Python` `Flask` `OpenCV` `YOLO` `Spring Boot` `MySQL` |
 | **에그머니**<br/>(2025.08~09) | **[수입/지출 관리 가계부 서비스]**<br/>• **역할:** Spring Security 로그인/보안, DB 모델링, Google Chart 시각화<br/>• **특징:** 차트 기반 소비 패턴 시각화, 레거시 시스템 마이그레이션 | `Java 8` `Spring Boot` `Oracle 11g` `JSP` `Google Chart` |
 
 ---
