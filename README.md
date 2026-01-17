@@ -83,11 +83,11 @@ Java 기반 백엔드 개발을 중심으로
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest velog Posts
 
-- 📄 [포스팅 제목을 여기에 적어주세요](https://velog.io/@meustar/실제_포스팅_주소)
-- 📄 [작성한 기술 블로그 글 제목 2](https://velog.io/@meustar)
-- 📄 [작성한 회고록이나 공부 정리 글](https://velog.io/@meustar)
+- 📄 [시리즈_컴퓨터 공학 기초](https://velog.io/@meustar/series/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EA%B8%B0%EC%B4%88)
+- 📄 [시리즈_네트워크 기초](https://velog.io/@meustar/series/%EB%84%90%EB%84%90%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%EC%9D%B4%EB%A1%A0)
+- 📄 [시리즈_백엔드 개발에 필요한 백가지 중요 지식들(백발백중)](https://velog.io/@meustar/series/%EC%89%AC%EC%9A%B4%EC%BD%94%EB%93%9C%EB%B0%B1%EB%B0%9C%EB%B0%B1%EC%A4%91BJ-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B0%B1%EA%B0%80%EC%A7%80-%EC%A4%91%EC%9A%94-%EC%A7%80%EC%8B%9D%EB%93%A4)
 
 ---
 
