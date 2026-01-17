@@ -65,11 +65,9 @@ Java 기반 백엔드 개발을 중심으로
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E6&width=435&lines=Hello,+I'm+meustar;Java+Backend+Developer;Always+Learning+System+Architecture" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meustar&show_icons=true&theme=tokyonight&hide_border=true" height="150px" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meustar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150px" alt="Top Langs" />
-</div>
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meustar&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
